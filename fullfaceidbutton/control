@@ -1,0 +1,9 @@
+Package: com.fakefake.fullfaceidbutton
+Name: FullFaceIDButton
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Makes the passcode screen appear when pressing anywhere on the screen instead of having to press on the "FaceID" label.
+Maintainer: FakeFake <fakefakedev@gmail.com>
+Author: FakeFake <fakefakedev@gmail.com>
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)

@@ -1,0 +1,9 @@
+Package: com.fakefake.noprivatepopup
+Name: NoPrivatePopUp
+Depends: mobilesubstrate
+Version: 1.1
+Architecture: iphoneos-arm
+Description: No Private popup in Safari - A12 Support
+Maintainer: FakeFake <fakefakedev@gmail.com>
+Author: FakeFake <fakefakedev@gmail.com>
+Section: Tweaks
