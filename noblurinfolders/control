@@ -1,9 +1,0 @@
-Package: com.fakefake.noblurinfolders
-Name: NoBlurInFolders
-Depends: mobilesubstrate
-Version: 0.0.1
-Architecture: iphoneos-arm
-Description: No Blur In Folders
-Maintainer: FakeFake
-Author: FakeFake
-Section: Tweaks
