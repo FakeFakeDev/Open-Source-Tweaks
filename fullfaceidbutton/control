@@ -7,3 +7,4 @@ Maintainer: FakeFake <fakefakedev@gmail.com>
 Author: FakeFake <fakefakedev@gmail.com>
 Section: Tweaks
 Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.fakefake.skipfaceid

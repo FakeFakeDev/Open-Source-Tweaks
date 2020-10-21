@@ -1,0 +1,10 @@
+Package: com.fakefake.skipfaceid
+Name: SkipFaceID
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Skips FaceID when swiping up on lockscreen
+Maintainer: FakeFake <fakefakedev@gmail.com>
+Author: FakeFake <fakefakedev@gmail.com>
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.fakefake.fullfaceidbutton

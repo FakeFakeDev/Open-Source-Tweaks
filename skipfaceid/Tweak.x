@@ -3,9 +3,12 @@
 -(void)_usePasscodeButtonHit;
 @end
 
+
 %hook SBUIPasscodeBiometricAuthenticationView
 
--(void)_cancelButtonHit {
+-(void)layoutSubviews {
+%orig;
 [self _usePasscodeButtonHit];
 }
+
 %end
